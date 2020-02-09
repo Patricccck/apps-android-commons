@@ -35,22 +35,22 @@
     <item quantity="one">%1$d file uploading</item>
     <item quantity="other">%1$d files uploading</item>
   </plurals>
-  <string name="title_activity_contributions">My Recent Uploads</string>
+  <string name="title_activity_contributions">My Recent uploads</string>
   <string name="contribution_state_queued">Queued</string>
   <string name="contribution_state_failed">Failed</string>
   <string name="contribution_state_in_progress">%1$d%% complete</string>
   <string name="contribution_state_starting">Uploading</string>
-  <string name="menu_from_gallery">From Gallery</string>
+  <string name="menu_from_gallery">From gallery</string>
   <string name="menu_from_camera">Take photo</string>
   <string name="menu_nearby">Nearby</string>
   <string name="provider_contributions">My uploads</string>
   <string name="menu_share">Share</string>
-  <string name="menu_open_in_browser">View in Browser</string>
-  <string name="share_title_hint">Title (Required)</string>
+  <string name="menu_open_in_browser">View in browser</string>
+  <string name="share_title_hint">Title (required)</string>
   <string name="add_title_toast">Please provide a title for this file</string>
   <string name="share_description_hint">Description</string>
-  <string name="login_failed_network">Unable to login - network failure</string>
-  <string name="login_failed_wrong_credentials">Unable to login - please check your username and password</string>
+  <string name="login_failed_network">Unable to login ‒ network failure</string>
+  <string name="login_failed_wrong_credentials">Unable to login ‒ please check your username and password</string>
   <string name="login_failed_throttled">Too many unsuccessful attempts. Please try again in a few minutes.</string>
   <string name="login_failed_blocked">Sorry, this user has been blocked on Commons</string>
   <string name="login_failed_2fa_needed">You must provide your two factor authentication code.</string>
@@ -64,11 +64,11 @@
   <string name="menu_save_categories">Save</string>
   <string name="refresh_button">Refresh</string>
   <string name="display_list_button">List</string>
-  <string name="gps_disabled">GPS is disabled in your device. Would you like to enable it?</string>
-  <string name="enable_gps">Enable GPS</string>
+  <string name="gps_disabled">Location servises are disabled in your device. Would you like to enable it?</string>
+  <string name="enable_gps">Enable location servises</string>
   <string name="contributions_subtitle_zero">No uploads yet</string>
   <plurals name="contributions_subtitle">
-    <!--zero is not used in english. Category mentioned here for easy reference in future-->
+    <!--zero is not used in English. Category mentioned here for easy reference in future-->
     <item quantity="zero">@string/contributions_subtitle_zero</item>
     <item quantity="one">(%1$d)</item>
     <item quantity="other">(%1$d)</item>
@@ -96,10 +96,10 @@
   <string name="about_privacy_policy"><![CDATA[<u>Privacy policy</u>]]></string>
   <string name="about_credits"><![CDATA[<u>Credits</u>]]></string>
   <string name="title_activity_about">About</string>
-  <string name="menu_feedback">Send Feedback (via Email)</string>
+  <string name="menu_feedback">Send feedback (via email)</string>
   <string name="no_email_client">No email client installed</string>
   <string name="provider_categories">Recently used categories</string>
-  <string name="waiting_first_sync">Waiting for first sync…</string>
+  <string name="waiting_first_sync">Waiting for the first sync…</string>
   <string name="no_uploads_yet">You have not yet uploaded any photos.</string>
   <string name="menu_retry_upload">Retry</string>
   <string name="menu_cancel_upload">Cancel</string>
@@ -142,7 +142,7 @@
   <string name="tutorial_2_subtext_2">Useful objects (bicycles, train stations)</string>
   <string name="tutorial_2_subtext_3">Famous people (your mayor, Olympic athletes you met)</string>
   <string name="tutorial_3_text">Please do NOT upload:</string>
-  <string name="tutorial_3_subtext_1">Selfies or pictures of your friends</string>
+  <string name="tutorial_3_subtext_1">Selfies or pictures of your friends or family</string>
   <string name="tutorial_3_subtext_2">Pictures you downloaded from the Internet</string>
   <string name="tutorial_3_subtext_3">Screenshots of proprietary apps</string>
   <string name="tutorial_4_text">Example upload:</string>
@@ -150,7 +150,7 @@
   <string name="tutorial_4_subtext_2">Description: Sydney Opera House as viewed from across the bay</string>
   <string name="tutorial_4_subtext_3">Categories: Sydney Opera House from the west, Sydney Opera House remote views</string>
   <string name="welcome_wikipedia_text">Contribute your images. Help Wikipedia articles come to life!</string>
-  <string name="welcome_wikipedia_subtext">Images on Wikipedia come from Wikimedia Commons.</string>
+  <string name="welcome_wikipedia_subtext">Images on Wikipedia mostly come from Wikimedia Commons.</string>
   <string name="welcome_copyright_text">Your images help educate people around the world.</string>
   <string name="welcome_copyright_subtext">Avoid copyrighted materials you found from the Internet as well as images of posters, book covers, etc.</string>
   <string name="welcome_final_text">You think you got it?</string>
@@ -200,12 +200,12 @@
   <string name="set_limit">Recent upload limit</string>
   <string name="login_failed_2fa_not_supported">Two factor authentication is currently not supported.</string>
   <string name="logout_verification">Do you really want to logout?</string>
-  <string name="commons_logo">Commons Logo</string>
+  <string name="commons_logo">Commons logo</string>
   <string name="commons_website">Commons Website</string>
-  <string name="commons_facebook">Commons Facebook Page</string>
+  <string name="commons_facebook">Commons Facebook page</string>
   <string name="commons_github">Commons Github Source Code</string>
   <string name="background_image">Background Image</string>
-  <string name="mediaimage_failed">Media Image Failed</string>
+  <string name="mediaimage_failed">Media image failed</string>
   <string name="no_image_found">No Image Found</string>
   <string name="no_subcategory_found">No subcategories found</string>
   <string name="no_parentcategory_found">No parent categories found</string>
@@ -214,7 +214,7 @@
   <string name="welcome_image_llamas">Llamas</string>
   <string name="welcome_image_rainbow_bridge">Rainbow Bridge</string>
   <string name="welcome_image_tulip">Tulip</string>
-  <string name="welcome_image_no_selfies">No Selfies</string>
+  <string name="welcome_image_no_selfies">No selfies</string>
   <string name="welcome_image_proprietary">Proprietary Image</string>
   <string name="welcome_image_welcome_wikipedia">Welcome Wikipedia</string>
   <string name="welcome_image_welcome_copyright">Welcome Copyright</string>
@@ -444,13 +444,13 @@ Upload your first media by tapping on the add button.</string>
   <string name="desc_language_Asia">Asia</string>
   <string name="desc_language_Pacific">Pacific</string>
 
-  <string name="no_categories_selected">No Categories Selected</string>
+  <string name="no_categories_selected">No categories selected</string>
   <string name="no_categories_selected_warning_desc">Images without categories are rarely usable. Are you sure you want to submit without selecting categories?</string>
 
   <string name="yes_submit">Yes, Submit</string>
-  <string name="no_go_back">No, Go Back</string>
+  <string name="no_go_back">No, go back</string>
 
-  <string name="upload_flow_all_images_in_set">(For all images in set)</string>
+  <string name="upload_flow_all_images_in_set">(for all images in set)</string>
   <string name="search_this_area">Search this area</string>
   <string name="nearby_card_permission_title">Permission Request</string>
   <string name="nearby_card_permission_explanation">Would you like us to use your current location to display the nearest place that needs pictures?</string>
@@ -553,7 +553,7 @@ Upload your first media by tapping on the add button.</string>
   <string name="exif_tag_name_software">Software</string>
 
   <string name="share_text">Upload photos to Wikimedia Commons directly from your phone. Download the Commons App now: %1$s</string>
-  <string name="share_via">Share app via...</string>
+  <string name="share_via">Share app via…</string>
   <string name="image_info">Image Info</string>
   <string name="no_categories_found">No Categories found</string>
   <string name="upload_cancelled">Cancelled Upload</string>
